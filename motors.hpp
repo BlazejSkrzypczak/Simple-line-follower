@@ -4,7 +4,5 @@
 void motors_config();
 void left();
 void right();
-void forward();
-void stop();
 
 #endif
