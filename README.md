@@ -10,3 +10,6 @@ Components used to build the project:
 5. 2 sensors CNY70
 6. Linear voltage regulator 5V - L7805CV
 
+See the results on a video showing the working robot:
+https://github.com/BlazejSkrzypczak/Simple-line-follower/assets/99908257/bd32e800-240c-4ccb-aa4d-0517e2a67ebb
+
